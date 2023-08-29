@@ -1,5 +1,5 @@
 # Binary trees
 
-# # This repository contains all tasks completd for the Binary trees project
+## This repository contains all tasks completd for the Binary trees project
 
 
